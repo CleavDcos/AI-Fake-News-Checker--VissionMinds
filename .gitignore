@@ -1,0 +1,5 @@
+# Ignore frontend node modules
+frontend/node_modules/
+
+# Ignore build folder
+frontend/build/
